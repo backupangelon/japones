@@ -10,3 +10,4 @@ tags:
 | せんせい | professor |
 | いしゃ  | medico    |
 | べんごし | advogado  |
+| がくせい | estudante |

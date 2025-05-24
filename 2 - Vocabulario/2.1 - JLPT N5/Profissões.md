@@ -11,3 +11,4 @@ tags:
 | いしゃ  | medico    |
 | べんごし | advogado  |
 | がくせい | estudante |
+| しごと  | trabalho  |

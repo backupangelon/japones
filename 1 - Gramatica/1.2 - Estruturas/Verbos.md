@@ -33,3 +33,31 @@ existem dois verbos irregulares o くる e o する que mudam completamente ao s
 1. くる -> きます
 2. する -> します
 
+
+## Forma ません
+
+Conjuga um verbo no presente de negativa e forma formal, existem dois grupos de verbos e apenas dois verbos irregulares.
+
+### Grupo 1
+
+São verbos terminados em "U", う, つ, る, ぶ, む, ぬ, く, ぐ e づ。
+Para conjugar esses verbos na forma ません troca a ultima silaba pela coluna do "い" adicionando o ません。
+
+#### Exemplo
+
+1. かく -> かきません。
+
+### Grupo 2
+
+São verbos terminados em いる ou える, para conjugar esses verbos na forma ません retira o る e adiciona o ません.
+
+### Exemplo
+
+1. おきる -> おきません。
+
+### Irregulares
+
+existem dois verbos irregulares o くる e o する que mudam completamente ao ser conjugado.
+
+1. くる -> きません。
+2. する -> しません。

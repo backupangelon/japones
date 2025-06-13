@@ -59,15 +59,25 @@ Meu pai não bebe álcool no jantar.
 	おとうさんはばんごはんにあるこるをのみません。
 
 Hoje à meia noite vou assistir uma live no youtube.
+	きょうはれいじにyoutubeのらいぶをみます。
 Meu filho não toma suco de morango.
+	むすこはいちごジュースのみません。
 Minha irmã não come tomate, cebola, cenoura, brócolis e alface.
+	おねえちゃんはトマトとたまねぎとにんじんとブロコリとれたすをたべません。
 Não vou viajar com você em abril.
+	四月にあなたとりゅうこうしません。
 A faculdade do meu irmão vai começar em junho.
+	おにいちゃんのだいがくは六月にはじまります。
 As aulas da minha filha terminam em novembro.
+	むすめのじゅぎゅうは十一月におわります。
 Você vai dançar comigo na festa de amanhã, não vai?
+	あしたのパーチでいっしょにおどりますね。
 Levanto às 11:30 no domingo.
+	日曜日に十一時はんにおきます。
 Sou professor, ensino inglês para brasileiros.
+	せんせいです、ブラジルにえいごおしえます。
 Não como de garfo no restaurante japonês.
+	にほんのりょうりでにふぉおくでたべません
 
 Traduza para o português:
 
